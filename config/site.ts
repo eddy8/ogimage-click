@@ -13,7 +13,7 @@ const baseSiteConfig = {
     "Create professional Open Graph (OG) images for your website or social media effortlessly with our Free OG Image Generator. Fully customizable, easy-to-use, and optimized for Facebook, Twitter, LinkedIn, and more.",
   url: BASE_URL,
   metadataBase: new URL(BASE_URL),
-  keywords: [],
+  keywords: ['Free OG Image Generator', 'Open Graph Image Creator', 'Custom OG Image Maker', 'Social Media Image Generator', 'Facebook OG Images', 'Twitter OG Images', 'LinkedIn OG Images', 'Online OG Image Tool', 'OG Metadata Generator'],
   authors: [
     {
       name: SITE_OWNER,
