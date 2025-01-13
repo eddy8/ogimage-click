@@ -8,9 +8,9 @@ export const BLUESKY_URL = "";
 
 const baseSiteConfig = {
   name: "Free OG Image Generator",
-  title: "Free OG Image Generator",
+  title: "Free OG Image Generator - Instantly Create Custom Open Graph Images Online",
   description:
-    "Create beautiful OG images, Twitter/X Header Images & more for free, in simple clicks.",
+    "Create professional Open Graph (OG) images for your website or social media effortlessly with our Free OG Image Generator. Fully customizable, easy-to-use, and optimized for Facebook, Twitter, LinkedIn, and more.",
   url: BASE_URL,
   metadataBase: new URL(BASE_URL),
   keywords: [],

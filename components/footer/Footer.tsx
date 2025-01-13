@@ -1,10 +1,8 @@
 import Link from "next/link"
-import { GithubIcon } from "lucide-react"
-import { FaBluesky, FaXTwitter } from "react-icons/fa6"
 
-import { siteConfig } from "@/config/site"
-import { Button } from "@/components/ui/button"
 import { ModeToggle } from "@/components/mode-toggle"
+import { Button } from "@/components/ui/button"
+import { siteConfig } from "@/config/site"
 
 export default function Footer() {
   return (
@@ -14,7 +12,7 @@ export default function Footer() {
           <div className="flex flex-col gap-4 sm:flex-row sm:items-center">
             <Link
               href={siteConfig.url}
-              title="Free OG Image Generator"
+              title="Free OG Image Generator - Instantly Create Custom Open Graph Images Online"
               prefetch={false}
               className="font-mono font-semibold hover:underline"
             >
@@ -35,7 +33,7 @@ export default function Footer() {
 
           <div className="flex flex-col items-start gap-2 sm:items-start">
             <div className="flex items-center gap-x-4">
-              
+
               <ModeToggle />
             </div>
           </div>
