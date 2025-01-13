@@ -1,5 +1,5 @@
 
-# ogimage.click
+# ogimage.bituier.com
 
 A free and open source tool for generating beautiful Open Graph images, Twitter/X headers, and blog covers - no signup required.
 
@@ -37,7 +37,7 @@ A free and open source tool for generating beautiful Open Graph images, Twitter/
 1. Clone the repository:
 ```bash
 git clone https://github.com/weijunext/ogimage-click.git
-cd ogimage.click
+cd ogimage.bituier.com
 ```
 
 2. Install dependencies:
@@ -102,7 +102,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🌐 Links
 
-- [Website](https://ogimage.click/)
+- [Website](https://ogimage.bituier.com/)
 - [Issue Tracker](https://github.com/weijunext/ogimage-click/issues)
 
 ---

@@ -9,11 +9,11 @@ export async function generateMetadata() {
     description: "Read OG Image Guides.",
     openGraph: {
       ...siteConfig.openGraph,
-      url: "https://ogImage.click/guides",
+      url: "https://ogimage.bituier.com/guides",
     },
     twitter: {
       ...siteConfig.twitter,
-      site: "https://ogImage.click/guides",
+      site: "https://ogimage.bituier.com/guides",
     },
   }
 }

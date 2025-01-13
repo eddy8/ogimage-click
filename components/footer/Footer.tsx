@@ -35,36 +35,7 @@ export default function Footer() {
 
           <div className="flex flex-col items-start gap-2 sm:items-start">
             <div className="flex items-center gap-x-4">
-              <Link
-                href={siteConfig.authors[0].twitter || "/"}
-                prefetch={false}
-                title="Follow me on Twitter"
-                target="_blank"
-                rel="noopener noreferrer nofollow"
-                aria-label="Twitter"
-              >
-                <FaXTwitter className="h-5 w-5 text-black dark:text-white" />
-              </Link>
-              <Link
-                href={siteConfig.authors[0].bluesky || "/"}
-                prefetch={false}
-                target="_blank"
-                title="Follow me on Bluesky"
-                rel="noopener noreferrer nofollow"
-                aria-label="Bluesky"
-              >
-                <FaBluesky className="h-5 w-5 text-black dark:text-white" />
-              </Link>
-              <Link
-                href="https://github.com/weijunext/ogimage-click"
-                prefetch={false}
-                title="ogimage-click"
-                target="_blank"
-                rel="noopener noreferrer nofollow"
-                aria-label="GitHub"
-              >
-                <GithubIcon className="h-5 w-5 text-black dark:text-white" />
-              </Link>
+              
               <ModeToggle />
             </div>
           </div>

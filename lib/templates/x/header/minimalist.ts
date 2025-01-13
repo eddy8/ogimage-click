@@ -30,7 +30,7 @@ export const minimalistTemplateDefault: MinimalistTemplate = {
   name: "x:header-minimalist",
   params: {
     title: {
-      text: "ogImage.click",
+      text: "ogimage.bituier.com",
       fontFamily: "inter",
       fontWeight: 600,
       fontSize: 48,
